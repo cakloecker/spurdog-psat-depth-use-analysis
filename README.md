@@ -1,2 +1,3 @@
 # spurdog-psat-depth-use-analysis
 This repository contains code used for analysing PSAT data and respective figures linked to the scientific paper entitled "Female spurdog (Squalus acanthias) show year-round coastal association and seasonal diel vertical migration in Nordic waters".
+It processes the PSAT data and performs a niche analysis for depth and temperature and inspects the rythms in depth use across sub-daily to seasonal cycles. The data contains archival 5-sec resolution data for temperature, depth, light level and accelleration for 15 pregnant female spurdog from 82 - 360 days between 2019 and 2022.
